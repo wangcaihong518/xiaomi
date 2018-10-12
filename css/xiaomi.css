@@ -319,7 +319,7 @@ nav span {
 	position: relative;
 	display: block;
 	height: 42px;
-	text-indent: 20px;
+	text-indent: 30px;
 	font-size: 14px;
 	color: #FFF;
 } 
@@ -668,6 +668,7 @@ nav span {
 	right: 0;
 	top: 366px;*/
 	text-align: right;
+	margin-bottom: 12px;
 }
 .phone_more a {
 	font-size: 16px;
